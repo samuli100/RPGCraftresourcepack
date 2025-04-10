@@ -1,0 +1,18 @@
+{
+  "music.custom.chronos_hymn": {
+    "sounds": [
+      {
+        "name": "music/custom/chronos_hymn",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.the_beginning": {
+    "sounds": [
+      {
+        "name": "music/custom/the_beginning",
+        "stream": true
+      }
+    ]
+  }
+}
